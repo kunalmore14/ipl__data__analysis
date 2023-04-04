@@ -1,11 +1,14 @@
-The analysis covers various aspects of IPL matches, including the performance of individual players, teams, and venues. The author has used data cleaning techniques to remove any missing or irrelevant data and has also provided visualizations that make it easier to understand the patterns and trends in the data.
+I used Python modules like pandas, numpy, and matplotlib in my project to analyse data from the Indian Premier League (IPL). The information includes player-level information like batting and bowling statistics as well as match-level information like venue, winner, and scores for IPL games played between 2008 and 2017. The data covers matches from the 2008 to 2017 season.
 
-Some of the key questions that this analysis explores include:
+The main goal of my analysis is to examine many facets of IPL games, such as the effectiveness of specific players, teams, and locations. To remove any incomplete or unnecessary data, I employed data cleaning techniques. I also offered visuals to help people better understand the patterns and trends in the data.
 
-Which team has performed the best in IPL history?
 
-What is the correlation between team wins and winning the toss?
+In this analysis, I address several important issues like the following:
 
-Which player has been the most valuable player (MVP) in IPL history?
+Which team has had the best IPL record of performance?
 
-Overall, this project provides a comprehensive and insightful analysis of IPL data that can be useful to both cricket fans and data analysts. The author has done an excellent job of presenting the findings in a clear and concise manner, making it easy for anyone to understand and appreciate the insights gained.
+What relationship exists between a team winning and winning the toss?
+
+Who has been the most valuable player (MVP) in the history of the IPL?
+
+Overall, this project offers a thorough and analytical examination of IPL data that might be helpful to both cricket fans and data professionals. I've tried to make the findings as plain and concise as possible so that anyone can easily grasp them and benefit from the new insights. You are welcome to look through the Jupyter notebooks to discover more about the analysis procedure and the findings I came to.
