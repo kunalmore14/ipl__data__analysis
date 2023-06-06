@@ -1,6 +1,6 @@
 I used Python modules like pandas, numpy, and matplotlib in my project to analyse data from the Indian Premier League (IPL). The information includes player-level information like batting and bowling statistics as well as match-level information like venue, winner, and scores for IPL games played between 2008 and 2017. The data covers matches from the 2008 to 2017 season.
 
-The main goal of my analysis is to examine many facets of IPL games, such as the effectiveness of specific players, teams, and locations. To remove any incomplete or unnecessary data, I employed data cleaning techniques. I also offered visuals to help people better understand the patterns and trends in the data.
+The main goal of my analysis is to examine many facets of IPL games, such as the effectiveness of specific players, teams, and locations. To remove any incomplete or unnecessary data, I employed data cleaning techniques. 
 
 
 In this analysis, I address several important issues like the following:
